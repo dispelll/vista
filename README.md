@@ -20,7 +20,7 @@
 ## How To Use Vista!🚠
 To get a general idea of how to use Vista, start with `/vista`, which has buttons that send ephemeral responses, and includes the most commonly used commands. 
 
-![/vista gif](https://giphy.com/gifs/uYVGf9ewu4PCR518AL)
+![/vista gif](https://cdn.discordapp.com/attachments/1078703261659447489/1078707666194542605/vista.gif)
 
 ## Rules Lookup!🧑‍⚖️ 
 Use `/rules` to lookup rules for the Horizon Framework. `/rules` has the following subcommands. 
