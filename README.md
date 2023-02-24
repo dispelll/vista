@@ -1,5 +1,5 @@
-# 🗻vista 
 <p align="center">
+# 🗻vista 
 <a href="https://github.com/dispelll/vista/blob/main/LICENSE/">
 <img src="https://img.shields.io/bower/l/vista" alt="License: MIT">
     </a>
@@ -27,7 +27,7 @@ Use `/rules` to lookup rules for the Horizon Framework. `/rules` has the followi
 • `/rules fortune` details the *Fortune* resource, and what it's used for in Horizon. <br>
 • `/rules modifiers` details Contextual and Eternal modifiers, along with the lowest and maximum dice that can be rolled. <br>
 • `/rules catchphrase` details why players should say their catchphrase. <br>
-• '/rules connections` details bonds and owing favours (Owes Me One) in Horizon. <br>
+• `/rules connections` details bonds and owing favours (Owes Me One) in Horizon. <br>
 • `/rules spaces` details how distance works (measured in meters). <br>
 • `/rules life` details Get A Life and Hurt. <br>
 • `/rules dodge` details how to avoid Hurt. <br>
