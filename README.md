@@ -1,33 +1,41 @@
+<p align="center">
+    <img height="190" width="190" src="https://cdn.discordapp.com/attachments/1078703261659447489/1078711291117580428/vista-icon-white.png"/>
+</p>
 <h1 align="center">🗻vista</h1>
 <p align="center">
 <a href="https://github.com/dispelll/vista/blob/main/LICENSE/">
-<img src="https://img.shields.io/bower/l/vista" alt="License: MIT">
-    </a>
+    <img src="https://img.shields.io/bower/l/vista" alt="License: MIT">
+</a>
 <a href="https://discord.gg/52EbV5xSVs">
-<img height="20" alt="Discord invite" src="https://img.shields.io/badge/Discord-Join%20Our%20Discord!-blue">
-    </a>
+    <img height="20" alt="Discord invite" src="https://img.shields.io/badge/Discord-Join%20Our%20Discord!-blue">
+</a>
 <a href="https://www.patreon.com/horizonframework?utm_campaign=creatorshare_creator">
-<img src=https://img.shields.io/badge/Patreon-Support%20Us!-red>
-    </a>
+    <img src=https://img.shields.io/badge/Patreon-Support%20Us!-red>
+</a>
 <a href="https://bit.ly/3XHIqlf">
-<img src=https://img.shields.io/badge/Horizon-IT%202.5.0%20Compatible-blueviolet>
-    </a>
+    <img src=https://img.shields.io/badge/Horizon-IT%202.5.0%20Compatible-blueviolet>
+</a>
 <a href=">https://discord.com/api/oauth2/authorize?client_id=1063989203479834734&permissions=277025507392&scope=bot%20applications.commands">
-<img src=https://img.shields.io/badge/Invite-Invite%20Vista%20To%20Your%20Server!-5865F2>
-    </a>
+    <img src=https://img.shields.io/badge/Invite-Invite%20Vista%20To%20Your%20Server!-5865F2>
+</a>
+
+The official [Horizon Framework](https://bit.ly/3XHIqlf) rules lookup and rolling bot, Vista has fully intergrated slash commands, buttons, and linked references! Please direct any questions to the `support-and-questions` channel on [our Discord server](https://discord.gg/52EbV5xSVs), and we'll respond as soon as possible!  
 </p>
 
 ## How To Use Vista!🚠
 To get a general idea of how to use Vista, start with `/vista`, which has buttons that send ephemeral responses, and includes the most commonly used commands. 
 
-</p align="center">
-![/vista gif](https://cdn.discordapp.com/attachments/1078703261659447489/1078707666194542605/vista.gif)
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1078703261659447489/1078707666194542605/vista.gif" alt="/vista" />
 </p>
 
 ## Rules Lookup!🧑‍⚖️ 
 Use `/rules` to lookup rules for the Horizon Framework. `/rules` has the following subcommands. 
-<br>
-<br>
+
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1078703261659447489/1078709096041168997/rules.gif" alt="/rules" />
+</p>
+
 • `/rules attributes` details what each attribute represents in Horizon. <br>
 • `/rules standard_roll` details how to make a Standard Roll in Horizon. <br>
 • `/rules contested_roll` details how Contested Rolls work in Horizon. <br>
