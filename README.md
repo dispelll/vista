@@ -12,6 +12,9 @@
 <a href="https://bit.ly/3XHIqlf">
 <img src=https://img.shields.io/badge/Horizon-IT%202.5.0%20Compatible-blueviolet>
     </a>
+<a href=">https://discord.com/api/oauth2/authorize?client_id=1063989203479834734&permissions=277025507392&scope=bot%20applications.commands">
+<img src=https://img.shields.io/badge/Invite-Invite%20Vista%20To%20Your%20Server!-green>
+    </a>
 </p>
 
 ## How To Use Vista!🚠
@@ -46,7 +49,38 @@ Use `/rules` to lookup rules for the Horizon Framework. `/rules` has the followi
 Use `/roll` to roll dice. `/roll` has the following subcommands. 
 <br>
 <br>
-• `/roll d6` lets users roll 1-10 D6s. This command has one required field called *amount*, which is where the user places the number of D6s they wish to roll. If a non-integer or number greater than 10 is placed in *amount*, Vista will respond with an error. 
+• `/roll d6` lets users roll 1-10 D6s. This command has one required field called *amount*, which is where the user places the number of D6s they wish to roll. If a non-integer or number greater than 10 is placed in *amount*, Vista will respond with an error. <br>
+• `/roll d100` lets users roll 1-10 D100s. Like `/roll D6`, this command has one required field called *amount*, and sends an error if a non-integer or number greater than 10 is inputed. <br>
+• `/roll ability` lets users roll on the Ability table to get a random ability. <br>
+• `/roll aspect` lets users generate a random NPC Aspect on the Aspect table. <br>
 
+## Talents 🪩
+Use `/talents` to detail Talent options based on Tier. This command has five subcommands. 
+<br>
+<br>
+• `/talents first_tier` <br>
+• `/talents second_tier` <br>
+• `/talents third_tier` <br>
+• `/talents fourth_tier` <br>
+• `/talents fifth_tier` <br>
+
+## Roles 📋
+Use `/roles` to detail Role options for players. 
+
+## Phases 🎭
+`/phases` is a group command that details the standard options available when Order is declared. `/phases` has two subcommands. 
+<br>
+<br>
+• `/phases act` details the options for the Act phase. <br>
+• `/phases move` details the options for the Move phase. <br>
+
+## Hazards ☢️
+Use `/hazards` to detail different hazards in Horizon. This command—along with `/pets` and `/echo` are not attached to `/rules` because of the limit of 25 subcommands the Discord API has. 
+
+## Pets 🐶
+Use `/pets` to detail Pets in Horizon. 
+
+## Echo 🗣️
+Use `/echo` to detail the Echo optional rule. 
 
 
