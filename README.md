@@ -1,20 +1,23 @@
-<div align="center"> # Vista 
+<h1 align="center"> 🗻vista </h1>
 
 <p align="center">
-  <a href="https://github.com/dbt-labs/dbt-core/actions/workflows/main.yml">
-    <img src="https://github.com/dbt-labs/dbt-core/actions/workflows/main.yml/badge.svg?event=push" alt="CI Badge"/>
-  </a>
+
+<a href="http://unlicense.org/">
+<img src="https://img.shields.io/badge/license-Unlicense-blue.svg" alt="License: Unlicense">
+</a>
+
+<a href="https://github.com/markdown-templates/markdown-snippets/issues">
+<img src="https://img.shields.io/github/issues/markdown-templates/markdown-snippets.svg" alt="Issues">
+</a>
+
+<a href="https://github.com/markdown-templates/markdown-snippets/fork">
+<img src="https://img.shields.io/github/forks/markdown-templates/markdown-snippets.svg" alt="Forks">
+</a>
+
+<a href="https://github.com/markdown-templates/markdown-snippets/stargazers">
+<img src="https://img.shields.io/github/stars/markdown-templates/markdown-snippets.svg" alt="Stars">
+</a>
+
 </p>
-
-The rules-lookup and dice-rolling bot for the Horizon Framework. 
-<div align="center">
-  <a>
-    <img src="https://cdn.discordapp.com/attachments/926990804877185076/1078436240833130496/vista-icon4.png" alt="vista-icon" width="300" height="300">
-  </a>
-
-<div align="left">
-    
-    ## How To Use Vista! 
-Starting with Vista's help command (`/vista`) is the best way to familiarize yourself with the general things vista can do. 
 
 
