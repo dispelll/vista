@@ -14,7 +14,7 @@
     </a>
 </p>
 <br>
-<h2>How To Use Vista!🚠</h2>
+## How To Use Vista!🚠
 To get a general idea of how to use Vista, start with `/vista`, which has buttons that send ephemeral responses, and includes the most commonly used commands. 
 <br>
 <h2>Rules Lookup!🧑‍⚖️</h2>
