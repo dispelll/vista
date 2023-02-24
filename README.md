@@ -20,26 +20,26 @@ To get a general idea of how to use Vista, start with `/vista`, which has button
 <h2>Rules Lookup!🧑‍⚖️</h2>
 Use `/rules` to lookup rules for the Horizon Framework. `/rules` has the following subcommands. 
 <br>
-• `/rules attributes` details what each attribute represents in Horizon. 
-• `/rules standard_roll` details how to make a Standard Roll in Horizon. 
-• `/rules contested_roll` details how Contested Rolls work in Horizon. 
-• `/rules group_roll` details how Group Rolls work in Horizon. 
-• `/rules fortune` details the *Fortune* resource, and what it's used for in Horizon. 
-• `/rules modifiers` details Contextual and Eternal modifiers, along with the lowest and maximum dice that can be rolled. 
-• `/rules catchphrase` details why players should say their catchphrase. 
-• '/rules connections` details bonds and owing favours (Owes Me One) in Horizon. 
-• `/rules spaces` details how distance works (measured in meters). 
-• `/rules life` details Get A Life and Hurt. 
-• `/rules dodge` details how to avoid Hurt. 
-• `/rules order` details what happens when Order is declared. 
-• `/rules player_advancement` details Tiers, Ability Points, and how players progress. 
-• `/rules protection` details armor/Protective Gear. 
-• `/rules object_life` details how much Life objects have based on their size. 
-• `/rules intoxication` details how using intoxicants in Horizon works. 
-• `/rules currency` details Cost & Worth (Currency). 
-• `/rules tools_crafting_repair` details how to repair and craft items. 
-• `/rules stuff` details how general items work. 
-• `/rules light` details how light-emitting objects work. 
+• `/rules attributes` details what each attribute represents in Horizon. <br>
+• `/rules standard_roll` details how to make a Standard Roll in Horizon. <br>
+• `/rules contested_roll` details how Contested Rolls work in Horizon. <br>
+• `/rules group_roll` details how Group Rolls work in Horizon. <br>
+• `/rules fortune` details the *Fortune* resource, and what it's used for in Horizon. <br>
+• `/rules modifiers` details Contextual and Eternal modifiers, along with the lowest and maximum dice that can be rolled. <br>
+• `/rules catchphrase` details why players should say their catchphrase. <br>
+• '/rules connections` details bonds and owing favours (Owes Me One) in Horizon. <br>
+• `/rules spaces` details how distance works (measured in meters). <br>
+• `/rules life` details Get A Life and Hurt. <br>
+• `/rules dodge` details how to avoid Hurt. <br>
+• `/rules order` details what happens when Order is declared. <br>
+• `/rules player_advancement` details Tiers, Ability Points, and how players progress. <br>
+• `/rules protection` details armor/Protective Gear. <br>
+• `/rules object_life` details how much Life objects have based on their size. <br>
+• `/rules intoxication` details how using intoxicants in Horizon works. <br>
+• `/rules currency` details Cost & Worth (Currency). <br>
+• `/rules tools_crafting_repair` details how to repair and craft items. <br>
+• `/rules stuff` details how general items work. <br>
+• `/rules light` details how light-emitting objects work. <br>
 
 
 
