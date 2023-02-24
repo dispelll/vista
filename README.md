@@ -14,6 +14,10 @@
 <img src=https://img.shields.io/badge/Patreon-Support%20Us!-Red>
 </a>
 
+<a href="https://bit.ly/3XHIqlf">
+<img src=https://img.shields.io/badge/Horizon-IT%202.5.0%20Compatible-blueviolet>
+</a>
+
 </p>
 
 <h2 align="left"> How To Use Vista! 🗻</h2>
