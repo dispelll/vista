@@ -20,5 +20,7 @@ To get a general idea of how to use Vista, start with `/vista`, which has button
 <h2>Rules Lookup!🧑‍⚖️</h2>
 Use `/rules` to lookup rules for the Horizon Framework. `/rules` has the following subcommands. 
 
+• `/rules attributes` details what each attribute represents in Horizon. 
+
 
 
