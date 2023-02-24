@@ -1,5 +1,11 @@
-# vista
 <a href="https://discord.gg/52EbV5xSVs"><img height="20" alt="Server invite." src="https://img.shields.io/pypi/pyversions/hikari"/>
+
+<p align="center">
+  <a href="https://github.com/dbt-labs/dbt-core/actions/workflows/main.yml">
+    <img src="https://github.com/dbt-labs/dbt-core/actions/workflows/main.yml/badge.svg?event=push" alt="CI Badge"/>
+  </a>
+</p>
+
 The rules-lookup and dice-rolling bot for the Horizon Framework. 
 <div align="center">
   <a>
