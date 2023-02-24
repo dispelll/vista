@@ -11,7 +11,7 @@
 </a>
 
 <a href="https://www.patreon.com/horizonframework?utm_campaign=creatorshare_creator">
-<img src=https://img.shields.io/badge/Patreon-Support%20Us!-Red>
+<img src=https://img.shields.io/badge/Patreon-Support%20Us!-red>
 </a>
 
 <a href="https://bit.ly/3XHIqlf">
