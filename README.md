@@ -75,7 +75,7 @@ Use `/roles` to detail Role options for players.
 • `/phases move` details the options for the Move phase. <br>
 
 ## Hazards ☢️
-Use `/hazards` to detail different hazards in Horizon. This command—along with `/pets` and `/echo` are not attached to `/rules` because of the limit of 25 subcommands the Discord API has. 
+Use `/hazards` to detail different hazards in Horizon. This command—along with `/pets` and `/echo`—are not attached to `/rules` because of the limit of 25 subcommands the Discord API has. 
 
 ## Pets 🐶
 Use `/pets` to detail Pets in Horizon. 
@@ -83,4 +83,6 @@ Use `/pets` to detail Pets in Horizon.
 ## Echo 🗣️
 Use `/echo` to detail the Echo optional rule. 
 
+## Add Your Horizon Content! 📚
+Want to add your Horizon game or module to Vista? [Email us!](mailto:horizon.framework@gmail.com)
 
