@@ -13,7 +13,7 @@
 <img src=https://img.shields.io/badge/Horizon-IT%202.5.0%20Compatible-blueviolet>
     </a>
 <a href=">https://discord.com/api/oauth2/authorize?client_id=1063989203479834734&permissions=277025507392&scope=bot%20applications.commands">
-<img src=https://img.shields.io/badge/Invite-Invite%20Vista%20To%20Your%20Server!-green>
+<img src=https://img.shields.io/badge/Invite-Invite%20Vista%20To%20Your%20Server!-5865F2>
     </a>
 </p>
 
