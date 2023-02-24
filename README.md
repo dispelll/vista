@@ -1,4 +1,4 @@
-# 🗻vista 
+<h1 align="center">🗻vista</h1>
 <p align="center">
 <a href="https://github.com/dispelll/vista/blob/main/LICENSE/">
 <img src="https://img.shields.io/bower/l/vista" alt="License: MIT">
