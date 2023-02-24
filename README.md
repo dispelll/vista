@@ -16,4 +16,11 @@
 
 </p>
 
+# How To Use Vista! 🗻
+To get a general idea of how to use Vista, start with `/vista`, which has buttons that send ephemeral responses, and includes the most commonly used commands. 
+
+# Rules Lookup! 🧑‍⚖️
+Use `/rules` to lookup rules for the Horizon Framework. `/rules` has the following subcommands. 
+
+
 
