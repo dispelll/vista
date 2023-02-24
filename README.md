@@ -20,6 +20,7 @@
 To get a general idea of how to use Vista, start with `/vista`, which has buttons that send ephemeral responses, and includes the most commonly used commands. 
 
 <h2 align="left" Rules Lookup! 🧑‍⚖️</h2>
+
 Use `/rules` to lookup rules for the Horizon Framework. `/rules` has the following subcommands. 
 
 
