@@ -1,4 +1,4 @@
-#Vista
+<div align="center"> # Vista 
 
 <p align="center">
   <a href="https://github.com/dbt-labs/dbt-core/actions/workflows/main.yml">
