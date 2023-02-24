@@ -1,5 +1,5 @@
-<p align="center">
 # 🗻vista 
+<p align="center">
 <a href="https://github.com/dispelll/vista/blob/main/LICENSE/">
 <img src="https://img.shields.io/bower/l/vista" alt="License: MIT">
     </a>
@@ -19,6 +19,7 @@ To get a general idea of how to use Vista, start with `/vista`, which has button
 
 ## Rules Lookup!🧑‍⚖️ 
 Use `/rules` to lookup rules for the Horizon Framework. `/rules` has the following subcommands. 
+<br>
 <br>
 • `/rules attributes` details what each attribute represents in Horizon. <br>
 • `/rules standard_roll` details how to make a Standard Roll in Horizon. <br>
