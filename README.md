@@ -20,6 +20,9 @@
 ## How To Use Vista!🚠
 To get a general idea of how to use Vista, start with `/vista`, which has buttons that send ephemeral responses, and includes the most commonly used commands. 
 
+<a img src="https://cdn.discordapp.com/attachments/1078703261659447489/1078704342120538313/Screen_Recording_2023-02-24_at_10.43.37.mov">
+    </a>
+
 ## Rules Lookup!🧑‍⚖️ 
 Use `/rules` to lookup rules for the Horizon Framework. `/rules` has the following subcommands. 
 <br>
@@ -84,5 +87,5 @@ Use `/pets` to detail Pets in Horizon.
 Use `/echo` to detail the Echo optional rule. 
 
 ## Add Your Horizon Content! 📚
-Want to add your Horizon game or module to Vista? [Email us!](mailto:horizon.framework@gmail.com) Your content will remain solely yours, should you at it to the bot, and will **not** be added as part of it's open source code. 
+Want to add your Horizon game or module to Vista? [Email us!](mailto:horizon.framework@gmail.com) Your content will remain solely yours, should you add it to the bot, and will **not** be added as part of it's open source code. 
 
