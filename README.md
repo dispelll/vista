@@ -1,4 +1,4 @@
-<h1 align="center"> 🗻vista </h1>
+# 🗻vista 
 <p align="center">
 <a href="https://github.com/dispelll/vista/blob/main/LICENSE/">
 <img src="https://img.shields.io/bower/l/vista" alt="License: MIT">
@@ -14,10 +14,10 @@
     </a>
 </p>
 
-<h2>How To Use Vista!🚠</h2>
+## How To Use Vista!🚠
 To get a general idea of how to use Vista, start with `/vista`, which has buttons that send ephemeral responses, and includes the most commonly used commands. 
 
-<h2>Rules Lookup!🧑‍⚖️</h2>
+## Rules Lookup!🧑‍⚖️ 
 Use `/rules` to lookup rules for the Horizon Framework. `/rules` has the following subcommands. 
 <br>
 • `/rules attributes` details what each attribute represents in Horizon. <br>
