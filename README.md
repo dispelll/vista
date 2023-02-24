@@ -1,5 +1,5 @@
 # vista
-<a href="https://pypi.org/project/hikari"><img height="20" alt="Supported python versions" src="https://img.shields.io/pypi/pyversions/hikari"></
+<a href="https://discord.gg/52EbV5xSVs"><img height="20" alt="Server invite." src="https://img.shields.io/pypi/pyversions/hikari"></
 The rules-lookup and dice-rolling bot for the Horizon Framework. 
 <div align="center">
   <a>
