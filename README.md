@@ -42,5 +42,11 @@ Use `/rules` to lookup rules for the Horizon Framework. `/rules` has the followi
 • `/rules stuff` details how general items work. <br>
 • `/rules light` details how light-emitting objects work. <br>
 
+## Roll Dice! 🎲
+Use `/roll` to roll dice. `/roll` has the following subcommands. 
+<br>
+<br>
+• `/roll d6` lets users roll 1-10 D6s. This command has one required field called *amount*, which is where the user places the number of D6s they wish to roll. If a non-integer or number greater than 10 is placed in *amount*, Vista will respond with an error. 
+
 
 
