@@ -13,10 +13,10 @@
 <img src=https://img.shields.io/badge/Horizon-IT%202.5.0%20Compatible-blueviolet>
     </a>
 </p>
-<br>
+
 <h2>How To Use Vista!🚠</h2>
 To get a general idea of how to use Vista, start with `/vista`, which has buttons that send ephemeral responses, and includes the most commonly used commands. 
-<br>
+
 <h2>Rules Lookup!🧑‍⚖️</h2>
 Use `/rules` to lookup rules for the Horizon Framework. `/rules` has the following subcommands. 
 <br>
