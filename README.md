@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://discord.gg/52EbV5xSVs">
-<img height="20" alt="Discord invite" src="https://discord.com/api/guilds/1064935839693549579/widget.png"></a>
+<img height="20" alt="Discord invite" src="https://img.shields.io/badge/Discord-Join%20Our%20Discord!-blue"></a>
 
 <a href="https://www.patreon.com/horizonframework?utm_campaign=creatorshare_creator">
 <img src=https://img.shields.io/badge/Patreon-Support%20Us!-red>
