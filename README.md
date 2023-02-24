@@ -1,4 +1,5 @@
 # vista
+<a href="https://pypi.org/project/hikari"><img height="20" alt="Supported python versions" src="https://img.shields.io/pypi/pyversions/hikari"></
 The rules-lookup and dice-rolling bot for the Horizon Framework. 
 <div align="center">
   <a>
@@ -7,7 +8,7 @@ The rules-lookup and dice-rolling bot for the Horizon Framework.
 
 <div align="left">
     
-# How To Use Vista! 
+    ## How To Use Vista! 
 Starting with Vista's help command (`/vista`) is the best way to familiarize yourself with the general things vista can do. 
 
 
