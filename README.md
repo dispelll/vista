@@ -1,4 +1,4 @@
-<a href="https://discord.gg/52EbV5xSVs"><img height="20" alt="Server invite." src="https://img.shields.io/pypi/pyversions/hikari"/>
+#Vista
 
 <p align="center">
   <a href="https://github.com/dbt-labs/dbt-core/actions/workflows/main.yml">
