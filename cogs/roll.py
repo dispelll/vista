@@ -151,7 +151,7 @@ async def ability(ctx: lightbulb.Context) -> None:
     "aspect", "Rolls on the Aspect table! (Sends temporary response only you can see. )"
 )
 @lightbulb.implements(lightbulb.SlashSubCommand)
-async def ability(ctx: lightbulb.Context) -> None:
+async def aspect(ctx: lightbulb.Context) -> None:
     """Rolls on the Aspect table."""
     # List to roll on.
     aspectList = [
