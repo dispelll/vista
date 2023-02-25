@@ -25,10 +25,6 @@ The official [Horizon Framework](https://bit.ly/3XHIqlf) rules lookup and rollin
 ## How To Use Vista!🚠
 To get a general idea of how to use Vista, start with `/vista`, which has buttons that send ephemeral responses, and includes the most commonly used commands. 
 
-<p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1078703261659447489/1078707666194542605/vista.gif" alt="/vista" />
-</p>
-
 ## Rules Lookup!🧑‍⚖️ 
 Use `/rules` to lookup rules for the Horizon Framework. `/rules` has the following subcommands. 
 
