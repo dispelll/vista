@@ -98,6 +98,6 @@ Want to add your Horizon game or module to Vista? [Email us!](mailto:horizon.fra
 We plan to implement the following new features.
 <br>
 <br>
-• `/generate` will be a new group command with two subcommands: `/character`, which will generate a random Horizon character and populate an attached character sheet; `/npc`, which will generate a random NPC, and populate an attached NPC sheet. 
+• `/generate` will be a new group command with two subcommands: `/character`, which will generate a random Horizon character and populate an attached character sheet; `/npc`, which will generate a random NPC, and populate an attached NPC sheet. <br>
 • The `/order` subcommand will be added to `/roll`, and will allow users to roll Order and keep track of turns. 
 
