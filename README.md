@@ -92,7 +92,7 @@ Use `/pets` to detail Pets in Horizon.
 Use `/echo` to detail the Echo optional rule. 
 
 ## Add Your Horizon Content! 📚
-Want to add your Horizon game or module to Vista? [Email us!](mailto:horizon.framework@gmail.com) Your content will remain solely yours, should you add it to the bot, and will **not** be added as part of it's open source code. 
+Want to add your Horizon game or module to Vista? [Email us!](mailto:horizon.framework@gmail.com) Your content will remain solely yours, should you add it to the bot, and will **not** be added as part of its open source code. 
 
 ## Coming Soon!
 We plan to implement the following new features.
